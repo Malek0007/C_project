@@ -1,4 +1,4 @@
-# Cryptocurrency Price Prediction using Linear Regression in C
+# Cryptocurrency Price Prediction using Linear Regression in C language
 
 ## Overview
 This project is a cryptocurrency price prediction application developed in C, implementing a linear regression model to estimate future prices based on historical data. Using features such as high, low, and open prices, trading volume, and market capitalization, the model is trained to predict the market cap, providing insights into price trends. The model uses gradient descent to optimize the weights (theta values) and evaluates performance on both training and test datasets.
